@@ -1,3 +1,4 @@
+#!/bin/sh
 mkdir /var/db/pkg/copy
 cp /var/db/pkg/*.* /var/db/pkg/copy
 
